@@ -28,3 +28,6 @@ In order to make this feature work, you will need to add specific CSS to classes
 	-o-font-feature-settings: "liga";
 	font-feature-settings: "liga";
 ```
+
+This Fork update the provided webfonts in the <code>/font</code> folder and add a <code>/dev/font/</code> 
+folder with .fea (feature file for the liga feature), a .otf file and a source .glyphs file (font source for the Mac Glyphs app http://glyphsapp.com/).
